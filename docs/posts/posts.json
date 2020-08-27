@@ -14,5 +14,21 @@
     "preview": {},
     "last_modified": "2020-08-26T22:49:17-04:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/8_26_20_secondpost/",
+    "title": "My second post",
+    "description": "This is a second post",
+    "author": [
+      {
+        "name": "Hasibe Melda Kahraman-Colosky",
+        "url": "https://hasibemelda.github.io/myBlog/"
+      }
+    ],
+    "date": "2020-08-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-26T22:59:08-04:00",
+    "input_file": "secondpost.utf8.md"
   }
 ]
