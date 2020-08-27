@@ -1,18 +1,18 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Welcome to Melda's Blog",
-    "description": "Welcome to our new blog, Melda's Blog. We hope you enjoy \nreading what we have to say!",
+    "title": "My first post",
+    "description": "This is a first post",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Hasibe Melda Kahraman-Colosky",
+        "url": "https://hasibemelda.github.io/myBlog/"
       }
     ],
     "date": "2020-08-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-26T22:19:46-04:00",
+    "last_modified": "2020-08-26T22:49:17-04:00",
     "input_file": {}
   }
 ]
