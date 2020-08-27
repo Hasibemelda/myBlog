@@ -11,9 +11,9 @@
     ],
     "date": "2020-08-26",
     "categories": [],
-    "preview": {},
-    "last_modified": "2020-08-26T22:49:17-04:00",
-    "input_file": {}
+    "preview": "posts/welcome/img/Headshot.jpg",
+    "last_modified": "2020-08-26T23:43:20-04:00",
+    "input_file": "welcome.utf8.md"
   },
   {
     "path": "posts/8_26_20_secondpost/",

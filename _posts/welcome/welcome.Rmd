@@ -8,6 +8,7 @@ author:
     affiliation: CUNY Graduate Center
     affiliation_url: https://gc.cuny.edu
 date: 08-26-2020
+bibliography: Cognitive Psychology class.bib
 output:
   distill::distill_article:
     self_contained: false
@@ -23,3 +24,29 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 This is where I will be writing my first post.
+
+# my first level header
+This is where I write some text.
+
+## my second level header
+This is where I am writing some more.
+
+1. list
+2. list
+- list
+- list
+
+<http://google.com>
+
+[click here](google.com)
+
+## Pictures
+
+```{r,out.width="25%", fig.align='left'}
+knitr::include_graphics("img/Headshot.jpg")
+```
+## Citing Papers
+
+Something about Stroop effect [@verhaeghen_aging_1998]
+
+## References
