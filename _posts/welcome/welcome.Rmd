@@ -38,7 +38,7 @@ This is where I am writing some more.
 
 <http://google.com>
 
-[click here](google.com)
+[click here](http://google.com)
 
 ## Pictures
 
