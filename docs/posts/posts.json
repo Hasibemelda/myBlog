@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/8_26_20_secondpost/",
+    "title": "My second post",
+    "description": "This is a second post",
+    "author": [
+      {
+        "name": "Hasibe Melda Kahraman-Colosky",
+        "url": "https://hasibemelda.github.io/myBlog/"
+      }
+    ],
+    "date": "2020-08-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-26T22:59:09-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "My first post",
     "description": "This is a first post",
@@ -13,22 +29,6 @@
     "categories": [],
     "preview": "posts/welcome/img/Headshot.jpg",
     "last_modified": "2020-08-26T23:51:02-04:00",
-    "input_file": "welcome.utf8.md"
-  },
-  {
-    "path": "posts/8_26_20_secondpost/",
-    "title": "My second post",
-    "description": "This is a second post",
-    "author": [
-      {
-        "name": "Hasibe Melda Kahraman-Colosky",
-        "url": "https://hasibemelda.github.io/myBlog/"
-      }
-    ],
-    "date": "2020-08-26",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-08-26T22:59:08-04:00",
-    "input_file": "secondpost.utf8.md"
+    "input_file": {}
   }
 ]
