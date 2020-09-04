@@ -1,0 +1,32 @@
+---
+title: "Hello — I'm Melda 👋"
+description: |
+  Here's a little bit information about me and why I am taking Cognitive Psychology.
+author:
+  - name: Hasibe Melda Kahraman-Colosky
+    url: https://hasibemelda.github.io/myBlog/
+    affiliation: CUNY Graduate Center
+    affiliation_url: https://gc.cuny.edu
+date: 09-04-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+My decision to take this cognitive psychology course lies in many areas, but mainly in my research interest in play and learning in children. Children explore their environment and make sense of their world through play - but what happens under the surface? I am curious about the underlying processes that go on when children are engaging in play and also how an when learning takes hold. 
+
+I have only taken a Memory and Attention and a Neuroscience class in my undergraduate education, and I am definitely not up to date on the current ideas, issues and questions that exist in the area of cognitive psychology. I realized that if I wanted to study and research play and learning in children I need to understand a great deal more about cognition, as it involves every aspect of a child’s development and is an important piece in the learning process that children go through during play. I felt this class represents that opportunity.
+
+In my current understanding, play involves creativity, imagination, attention, language development, problem-solving and much more, which are all aspects of cognition and therefore fundamental for me to understand. I work in Dr. Jennifer Wagner’s Cognitive Development Lab at CSI, where some of the things we look at include the social development of children (e.g. How do babies pay attention to faces? How do children differentiate emotions?). I am also interested in the role siblings play in the development of infants — how they might contribute to the skills the infant is learning when engaging with the sibling. Currently I am working to develop a sibling interaction play questionnaire for parents, as well as plan on collecting video data on sibling play interactions.
+
+Alongside this research work, I am also beginning a project with Dr. Lana Karasik on object exploration and problem-solving during shape sorting in infancy. I hope to gain some more knowledge on these cognitive processes in this course.
+
+I believe taking this course will be able to provide me with essential foundations and core background knowledge on cognition — helping me to think critically about all aspects of my research and provide me with a deeper understanding to help broaden and enhance the depth of my research.

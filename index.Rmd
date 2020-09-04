@@ -1,5 +1,5 @@
 ---
-title: "Melda's Blog"
+title: "Fall 2020 - Cognitive Psychology 🧠"
 site: distill::distill_website
 listing: posts
 ---

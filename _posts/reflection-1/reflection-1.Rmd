@@ -1,0 +1,172 @@
+---
+title: " 📓 Assignment Week 1"
+description: Reflecting upon the readings, I identified a few emergent themes central to cognitive psychology; 1) In order to survive our constantly fluctuating environment, we rely on a broad set of cognitive phenomena — attention, memory, perception and language, etc. — to process information and stimuli from the environment. 2) Future research insights within cognitive psychology and the broader scientific community need to acknowledge a complete view of our unique cognitive capacities and information processing systems.
+author:
+  - name: Hasibe Melda Kahraman-Colosky
+    url: https://hasibemelda.github.io/myBlog/
+    affiliation: CUNY Graduate Center
+    affiliation_url: https://gc.cuny.edu
+date: 09-04-2020
+bibliography: references.bib
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+# 📄 Article
+
+<aside>
+  # The Psychological Review
+  <dl>
+    <dt>__March, 1956__</dt>
+    <dt>Vol. 63 — No. 2</dt>
+  </dl>
+</aside>
+
+## The magical number seven, plus or minus two: some limits on our capacity for processing information [@miller_magical_1956]
+
+George A. Miller | Harvard University
+
+### Highlights & Notes
+Miller provides key theoretical ideas fundamental to contemporary cognitive psychology and information processing theory \– short and long term memory. Information processing theory \– or __recoding__ as described by Miller \– is a general theory of human cognition.
+
+> "In the jargon of communication theory this process would be called __recoding__." \– p.93
+
+- A key concept to the idea is __chunking__ and the capacity of short term memory.
+
+- Short-term memory holds 5 - 9 __chunks__ of information (± 2) wherein a __chunk__ is any meaningful __bits__ of information – digits, words, chess moves, or people’s faces.
+
+  - Note: A single __bit__ is distinguished as the amount of information that we need to make a decision when considering a binary – whereas a __chunk__ can be viewed as organizing or grouping the information into familiar units or __chunks__.
+
+- Given a fixed number of __chunks__, we increase the amount of __bits__ of information that it contains by simply building larger and larger __chunks__.
+
+#### The Magical Number Seven
+
+<aside>
+  5x __chunks__ (±2)
+
+  #  🎰 7
+</aside>
+
+There is nothing "magical" about the number seven. Miller used the expression rhetorically.
+
+The number seven represents a useful heuristic, lists or __chunks__ that are much longer (±2) become significantly harder to remember and process simultaneously.
+
+> "There seems to be some limitation built into us either by learning or by the design of our nervous systems, a limit that keeps our channel capacities in this general range." \– p.86
+
+- This magical number 7 only applies to one-dimensional judgments.
+
+
+#### Recoding
+
+Throughout our daily routines and behaviors, in one form or another we use recoding constantly.
+
+> "By organizing the stimulus input simultaneously into several dimensions and successively into a sequence of __chunks__, we manage to break (or at least stretch) this informational bottleneck." \— p.95
+
+For instance, within human language there is a limit to the number of tones and sounds that we use in speech, yet speech uses sequences of phonemes, enabling us to __recode__ these successive sounds into richer information groups when we listen to words and sentences.
+
+> "In particular, the kind of linguistic __recoding__ that people do seems to me to be the very lifeblood of the thought processes." \— p.95
+
+#### Discussion Questions
+
+- Does the __chunking__ differ in children vs adults?
+
+- How do we clarify long term memories or recollections in relation to __recoding__ vs __attention__?
+
+- What role does this have when considering __learning and development__?
+
+***
+
+# 📄 Article
+
+<aside>
+  # Research Showcase @ CMU
+  <dl>
+    <dt>__1973__</dt>
+    <dt>Carnegie Mellon University</dt>
+
+  </dl>
+</aside>
+
+## You can't play 20 questions with nature and win: projective comments on the papers of this symposium [@newell_you_1973]
+
+Allen Newell | Carnegie Mellon University
+
+### Highlights & Notes
+
+Allen Newell‘s 1973 article — considered a classic within cognitive science — provides an account of his confession — despite there being many exemplary psychology experiments, each making scientific contributions on its own — he cannot see how any of it can serve as a cohesive set of progress when viewed as a whole.
+
+> "Psychology, in its current style of operation, deals with phenomena." \— p.2
+
+Newell describes the current state of psychology as too focused on individual _phenomena_ — __chunking__ in memory, subitizing, etc – as studied in a way to resolve classic dichotomies – binaries such as nature vs nature, conscious vs unconscious, serial vs parallel __processing__.
+
+> "Psychology also attempts to conceptualize what it is doing, as a guide to investigating these phenomena." \— p.5
+
+#### Diagnosis:
+
+_Phenomena_ generates an endless excellent papers without endless progress is that people can do the same task in different ways.
+
+> "Much of the new progress in the experimental analysis of the information processing of humans has eschewed attention to the control strurture." \— p.15
+
+Without constraining a person’s goals and the structure of the task environment — essential to predict behavior — no insights can be progressed. At a minimum, we must understand the method participants are using on the task — many experiments only dissect how people are doing the task.
+
+#### Prognosis:
+
+> "I will spend no time arguing that what is needed is to view man as an information processing system". \— p.18
+
+As a prognosis for how to make real progress in understanding the mind he proposes three possible courses of action:
+
+
+- Complete Processing Models
+
+- Analyze a Complex Task
+
+- One Program for Many Tasks
+
+
+#### Discussion Questions
+
+1. Does this require a generally intelligent (complete) processing model?
+
+***
+
+# 📄  Article
+
+<aside>
+  # Journal of Verbal Learning and Verbal Behavior
+  <dl>
+    <dt>__1978__</dt>
+    <dt>17, 721—74</dt>
+  </dl>
+</aside>
+
+### Richard Semon's Theory of Memory [@schacter_richard_1978]
+
+Schacter et al. | University of Toronto
+
+### Highlights & Notes
+
+A relatively unknown but nonetheless critical figure, Richard Semon theorized a system and theory of memory that anticipated numerous contemporary concepts and modern theories.
+
+As a universal theory that broadened the conceptual understanding of memory to include more than the basic memorization of facts, events, and whatnot — Semon argued to consider heredity and reproduction as forms of __memory__ that preserve the effects of experience across multiple generations.
+
+Semon called this core process — related to both heredity and everyday memory — __"Mneme"__.
+
+- As according to Semon, __Mneme__ is a fundamental organic plasticity that allows the preservation of effects of experience.
+
+It is based upon two fundamental ideas, which he coined and termed the __Law of Engraphy__ and the __Law of Ecphory__.
+
+1) _Engraphy_ refers to the encoding of information into memory.
+
+2) _Ecphory_  refers to a retrieval process
+
+The theory attempted to unify and explain more phenomena and issues than nealy all other theories at the time.
+r
