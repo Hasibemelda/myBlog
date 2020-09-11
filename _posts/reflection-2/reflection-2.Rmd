@@ -32,7 +32,7 @@ knitr::opts_chunk$set(echo = FALSE)
   </dl>
 </aside>
 
-## "Schema Abstraction" in a Multiple-Trace Memory Model[@hintzman_schema_nodate]
+## "Schema Abstraction" in a Multiple-Trace Memory Model[@hintzman_schema_1986]
 
 Douglas L. Hintzman | University of Oregon
 
@@ -80,7 +80,7 @@ This activation process is associative learning.
 
 - A simulation model of episodic memory.
 
-- The model is able to retrieve and disambiguate a prototype of a category when probed with a alias.
+- The model is able to retrieve and disambiguate a prototype of a category when probed with an alias.
 
 - The model predicts other basic findings from other schema-abstraction theories an literature.
 
