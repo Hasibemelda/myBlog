@@ -8,6 +8,7 @@ author:
     affiliation_url: https://gc.cuny.edu
 date: 09-04-2020
 bibliography: references.bib
+csl: apa.csl
 output:
   distill::distill_article:
     self_contained: false
